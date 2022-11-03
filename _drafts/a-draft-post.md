@@ -17,7 +17,8 @@
 ### 个人博客
 - [毛毛](https://maomao.ink/)
   - 博客结构清晰
-
+- [悬笔e绝](https://www.xuanbiyijue.com/categories/)
+  - 动画、动效很用心
 
 ### 知识体系图
 - ![知识体系](../img/draft_img/2022-10-25_%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.jpg)
